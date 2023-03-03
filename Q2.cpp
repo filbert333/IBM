@@ -12,7 +12,7 @@ int main() {
        if ( current == " ")
        {
            std:cin >> next;
-           if (next = "f")
+           if (next = "f") //if the letter start with F, then it's false
            {
                std::cout << "No" << std::endl;
            }
